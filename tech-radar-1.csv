@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
 Java 17,Adopt,Techniques,TRUE,Upgrade
+Other,Other,Other1,TRUE,Upgrade
+Other2,Other2,Other2,TRUE,Upgrade
+Other3,Other3,Other3.TRUE,Upgrade
